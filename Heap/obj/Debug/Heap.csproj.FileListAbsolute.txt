@@ -1,0 +1,6 @@
+D:\DS & Algorithms\Data Structures & Algorithms Part II\Trees\Heap\bin\Debug\Heap.exe.config
+D:\DS & Algorithms\Data Structures & Algorithms Part II\Trees\Heap\bin\Debug\Heap.exe
+D:\DS & Algorithms\Data Structures & Algorithms Part II\Trees\Heap\bin\Debug\Heap.pdb
+D:\DS & Algorithms\Data Structures & Algorithms Part II\Trees\Heap\obj\Debug\Heap.csprojAssemblyReference.cache
+D:\DS & Algorithms\Data Structures & Algorithms Part II\Trees\Heap\obj\Debug\Heap.exe
+D:\DS & Algorithms\Data Structures & Algorithms Part II\Trees\Heap\obj\Debug\Heap.pdb
